@@ -1,0 +1,16 @@
+{
+  "name": "ssr-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'build'",
+    "prepare": "echo 'prepare'",
+    "prepack": "echo 'prepack'",
+    "preinstall": "echo 'preinstall'",
+    "install": "echo 'install'",
+    "postinstall": "echo 'postinstall'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
